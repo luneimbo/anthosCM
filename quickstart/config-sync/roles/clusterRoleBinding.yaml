@@ -4,7 +4,7 @@ metadata:
   name: namespace-readers
 subjects:
 - kind: User
-  name: babacar.sakho@orange-sonatel.com
+  name: alioune2.diagne@gmail.com
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
